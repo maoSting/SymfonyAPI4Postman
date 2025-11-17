@@ -10,10 +10,10 @@ SymfonyAPI4Postman PhpStorm plugin document
 
 ### How to use it
 
-1. ![1](.\doc\screenshot\1.png)
-2. ![2](.\doc\screenshot\2.png)
-3. ![3](.\doc\screenshot\3.png)
-4. ![4](.\doc\screenshot\4.png)
-5. ![5](.\doc\screenshot\5.png)
-6. ![6](.\doc\screenshot\6.png)
-7. ![7](.\doc\screenshot\7.png)
+1. ![1](https://github.com/maoSting/SymfonyAPI4Postman/blob/master/doc/screenshot/1.png?raw=true)
+2. ![2](https://github.com/maoSting/SymfonyAPI4Postman/blob/master/doc/screenshot/2.png?raw=true)
+3. ![3](https://github.com/maoSting/SymfonyAPI4Postman/blob/master/doc/screenshot/3.png?raw=true)
+4. ![4](https://github.com/maoSting/SymfonyAPI4Postman/blob/master/doc/screenshot/4.png?raw=true)
+5. ![5](https://github.com/maoSting/SymfonyAPI4Postman/blob/master/doc/screenshot/5.png?raw=true)
+6. ![6](https://github.com/maoSting/SymfonyAPI4Postman/blob/master/doc/screenshot/6.png?raw=true)
+7. ![7](https://github.com/maoSting/SymfonyAPI4Postman/blob/master/doc/screenshot/7.png?raw=true)
